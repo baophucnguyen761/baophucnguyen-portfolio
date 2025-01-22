@@ -230,6 +230,14 @@ section {
     height: 2rem;
   }
 
+  .experience-icon {
+    cursor: pointer;
+    height: 3rem; 
+    width: 5rem;  
+}
+
+
+
 
 /* BUTTONS */
 
