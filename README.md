@@ -2,7 +2,7 @@
 
 Welcome to my portfolio! This repository showcases my learning journey and the projects I've worked on as I build my experience in programming and development.
 
-## Table of Contents
+## Table of Contents in my porfolio website:
 
 - [About Me](#about-me)
 - [Projects](#projects)
