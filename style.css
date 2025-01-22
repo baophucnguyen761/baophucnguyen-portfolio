@@ -63,6 +63,13 @@ a:hover{
     cursor: default;
 }
 
+.university-name{
+  margin-top: 5px; 
+  font-size: 1rem;  
+  color: #333;
+  text-align: center;
+}
+
 /* HAMBURGER MENU */
 
 #hamburger-nav {
@@ -222,6 +229,7 @@ section {
     cursor: pointer;
     height: 2rem;
   }
+
 
 /* BUTTONS */
 
@@ -438,6 +446,7 @@ footer {
   height: 26vh;
   margin: 0 1rem;
 }
+
 
 footer p {
   text-align: center;
