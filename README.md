@@ -9,7 +9,6 @@ Welcome to my portfolio! This repository showcases my learning journey and the p
 - [Experience](#skills)
 - [Contact](#contact)
 
-**
 ## About Me
 
 Hello! I'm an aspiring developer who is enthusiastic about learning and growing in the field of technology. While I don't have a lot of experience yet, I am dedicated to improving my skills and exploring new opportunities to create impactful solutions.
